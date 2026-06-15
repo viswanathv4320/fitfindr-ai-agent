@@ -6,6 +6,10 @@ CodePath AI201 — Project 2
 
 FitFindr is a multi-tool AI agent for secondhand outfit search and styling. It searches listings, picks a matching item, suggests an outfit, creates a fit card, compares price, retries strict searches, and remembers simple style preferences.
 
+## Demo
+
+🔗 **Demo video:** [Watch on Loom](https://www.loom.com/share/dd553b155fc84212a0c7194c8c4b6940)
+
 ## How to Run
 
 ```bash
